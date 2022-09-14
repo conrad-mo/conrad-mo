@@ -4,7 +4,7 @@ I am a undergrad student at the University of Toronto Scarborough Campus studyin
 
 ### GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=conrad-mo&show_icons=true&count_private=true&theme=dark)](https://github.com/conrad-mo)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=conrad-mo&show_icons=true&count_private=true&theme=dark)]
 
 <!--
 **conrad-mo/conrad-mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
