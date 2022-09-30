@@ -6,7 +6,7 @@ I am an undergrad student at the University of Toronto Scarborough Campus studyi
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=conrad-mo&show_icons=true&count_private=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conrad-mo&layout=compact&langs_count=6&hide=c,c%2B%2B,objective-c&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conrad-mo&layout=compact&langs_count=6&hide=c%2B%2B,objective-c&theme=dark)
 
 ### Socials
 
