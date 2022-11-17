@@ -14,7 +14,7 @@ I am an undergrad student at the University of Toronto Scarborough Campus studyi
   <img align="left" alt="Conrad Mo's Instagram" width="22px" src="https://raw.githubusercontent.com/conrad-mo/conrad-mo/master/icons/instagram.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/conrad-mo-971b6a249/">
+<a href="https://www.linkedin.com/in/conradmo">
   <img align="left" alt="Conrad Mo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/conrad-mo/conrad-mo/master/icons/linkedin.svg" />
 </a>
 
