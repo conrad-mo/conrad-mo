@@ -4,9 +4,9 @@ I am an undergrad student at the University of Toronto Scarborough Campus studyi
 
 ### GitHub Stats
 
-![Github Stats](https://github-readme-stats-ux4w.vercel.app/api?username=conrad-mo&show_icons=true&count_private=true&theme=dark)
+![Github Stats](https://github-readme-stats-conrad-mo.vercel.app/api?username=conrad-mo&show_icons=true&count_private=true&theme=dark)
 
-![Top Languages](https://github-readme-stats-ux4w.vercel.app/api/top-langs/?username=conrad-mo&layout=compact&langs_count=6&hide=css&theme=dark)
+![Top Languages](https://github-readme-stats-conrad-mo.vercel.app/api/top-langs/?username=conrad-mo&layout=compact&langs_count=6&hide=css&theme=dark)
 
 ### Socials
 
