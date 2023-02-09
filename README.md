@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an undergrad student at the University of Toronto Scarborough Campus studying computer science.
+Hi, I'm Conrad! I'm an undergrad student at the University of Toronto Scarborough Campus studying computer science.
 
 ### GitHub Stats
 
