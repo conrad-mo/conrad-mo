@@ -8,8 +8,6 @@ Hi, I'm Conrad! I'm an undergrad student at the University of Toronto Scarboroug
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conrad-mo&layout=compact&langs_count=10&hide=css&theme=dark)
 
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
