@@ -52,7 +52,6 @@ Hi, I'm Conrad! I'm an undergrad student at the University of Toronto Scarboroug
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="andriodstudio" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sketch" alt="sketch" width="40" height="40"/> </a>
 </p>
 
 ### What I'm Listening To
