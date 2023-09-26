@@ -2,12 +2,17 @@
 
 Hi, I'm Conrad! I'm an undergrad student at the University of Toronto Scarborough Campus studying computer science.
 
+- 🔭 I’m currently working on school
+- 🌱 I’m currently learning ML/Webdev
+- 📫 Email: conradmo@duck.com
+
 ### GitHub Stats
 
 ![Github Stats](https://github-readme-stats-conrad-mo.vercel.app/api?username=conrad-mo&show_icons=true&count_private=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conrad-mo&layout=compact&langs_count=10&hide=css&theme=dark)
 
+### Languages and Tools
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -39,6 +44,10 @@ Hi, I'm Conrad! I'm an undergrad student at the University of Toronto Scarboroug
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
 </p>
+
+### What I'm Listening To
+
+![https://spotify-github-profile.vercel.app/api/view.svg?uid=ag8c2igijt3qza4nu6j7n7vp9&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=ag8c2igijt3qza4nu6j7n7vp9&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 
 <!--
 **conrad-mo/conrad-mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
