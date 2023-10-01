@@ -41,7 +41,7 @@ Hi, I'm Conrad! I'm an undergrad student at the University of Toronto Scarboroug
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> </a>
-  <a href="https://github.com/actions/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" width="40" height="40"/> </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" width="40" height="40"/> </a>
   <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/></a>
