@@ -54,10 +54,6 @@ Hi, I'm Conrad! I'm an undergrad student at the University of Toronto Scarboroug
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>
 </p>
 
-### What I'm Listening To
-
-[![Spotify music](https://spotify-github-profile.vercel.app/api/view.svg?uid=ag8c2igijt3qza4nu6j7n7vp9&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_c)](https://spotify-github-profile.vercel.app/api/view.svg?uid=ag8c2igijt3qza4nu6j7n7vp9&redirect=true)
-
 <!--
 **conrad-mo/conrad-mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
