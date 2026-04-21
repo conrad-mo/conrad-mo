@@ -12,7 +12,7 @@ Hi, I'm Conrad! I'm an undergrad student at the University of Toronto Scarboroug
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conrad-mo&layout=compact&langs_count=10&hide=css&theme=dark)
 
-### Languages and Tools
+<!-- ### Languages and Tools
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> </a>
@@ -52,7 +52,7 @@ Hi, I'm Conrad! I'm an undergrad student at the University of Toronto Scarboroug
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a>
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="andriodstudio" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>
-</p>
+</p> -->
 
 <!--
 **conrad-mo/conrad-mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
